@@ -12,7 +12,7 @@
 Hi, I'm Mohamed — a Computer Science graduate and passionate Flutter developer with a strong focus on building clean, efficient, and user-friendly mobile applications. I'm also a skilled WordPress developer and UI/UX designer, with experience crafting intuitive and visually appealing web interfaces, and I have solid experience working with automation tools to streamline development workflows and boost productivity. Always open to collaboration and new opportunities to learn, grow, and build impactful digital experiences.
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 
 <p align="center">
 
