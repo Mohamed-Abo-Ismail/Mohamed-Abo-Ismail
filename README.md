@@ -8,13 +8,15 @@
 
 <h2>About Me</h2>
 
-Hi, I'm Mohamed, a Computer Science Graduate and a passionate Flutter developer. I specialize in building clean, efficient, and user-friendly mobile applications with a strong focus on UI/UX design, ensuring intuitive and visually appealing interfaces.
+Hi, I’m Mohamed, a Computer Science graduate and Flutter developer with a strong focus on building clean, efficient, and user-friendly mobile applications. I emphasize UI/UX design to create intuitive and visually appealing experiences.
 
-I completed a remote internship at Code Alpha as a Flutter developer, where I gained valuable experience working on real-world projects, collaborating with teams, and enhancing my development skills. I also completed a Route Diploma, during which I built eCommerce and movie app, learning Flutter fundamentals, API integration, and best practices for app architecture.
+I completed a remote Flutter internship at Code Alpha, gaining hands-on experience with real-world projects and team collaboration.
 
-I am also a content creator, sharing tutorials and guidance as a Flutter instructor to help others learn mobile development effectively.
+I also completed the Route Diploma, where I built eCommerce and movie apps, strengthening my skills in Flutter fundamentals, API integration, and app architecture.
 
-Beyond development, I volunteered at GDSC as a Game Developer, contributing to student projects and honing my collaborative and problem-solving skills. I am always eager to take on new challenges, learn, and create impactful digital experiences.
+Additionally, I completed a UI/UX Design internship at the Arabian Academy, where I designed mobile apps such as a hotel reservation app and an eCommerce website, and developed strong skills in Figma.
+
+I am also a Flutter content creator , and I volunteered at GDSC as a Game Developer, contributing to student projects. I am always eager to learn, grow, and create impactful digital experiences.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
