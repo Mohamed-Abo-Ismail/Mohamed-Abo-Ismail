@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mohamed 
 
-<!--
-**Mohamed-Abo-Ismail/Mohamed-Abo-Ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | Computer Science Graduate**
 
-Here are some ideas to get you started:
+I turn raw data into clear insights that support better business decisions. 
+I focus on data cleaning, analysis, visualization, and dashboard development 
+that's not just accurate — but easy for stakeholders to actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Toolkit
+
+| Tool | What I do with it |
+|---|---|
+| **Excel** | Data analysis, PivotTables, formulas, reporting |
+| **SQL** | Querying, joins, filtering, aggregation |
+| **Power BI** | Data modeling, DAX, visualization, interactive dashboards |
+| **Python** | Data analysis & manipulation with Pandas |
+| **Statistics** | Understanding data patterns and identifying trends |
+| **Figma** | Dashboard design principles — building visuals that are analytical *and* intuitive |
+
+## 📊 Featured Project
+
+**[Fathalla Supermarket — Sales Performance Analysis](https://github.com/Mohamed-Abo-Ismail/fathalla-supermarket-sales-analysis)**
+End-to-end Excel project: cleaned 410K+ sales records, built pivot tables and 
+charts, designed an interactive dashboard with slicers, and delivered a 
+business insights report.
+
+##  Let's Connect
+
+- LinkedIn: [www.linkedin.com/in/mohamed-el-sayed-abo-ismail-]
+- Email: [mohamedesmaile6@gmail.com]
+
+
