@@ -1,4 +1,3 @@
-# Hi, I'm Mohamed 
 
 **Junior Data Analyst | Computer Science Graduate**
 
