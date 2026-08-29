@@ -4,7 +4,7 @@
 
 I turn raw data into clear insights that support better business decisions. 
 I focus on data cleaning, analysis, visualization, and dashboard development 
-that's not just accurate — but easy for stakeholders to actually use.
+that's not just accurate but easy for stakeholders to actually use.
 
 ##  Toolkit
 
