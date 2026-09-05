@@ -14,7 +14,7 @@ that's not just accurate but easy for stakeholders to actually use.
 | **Power BI** | Data modeling, DAX, visualization, interactive dashboards |
 | **Python** | Data analysis & manipulation with Pandas |
 | **Statistics** | Understanding data patterns and identifying trends |
-| **Figma** | Dashboard design principles — building visuals that are analytical *and* intuitive |
+| **Figma** | Dashboard design principles building visuals that are analytical *and* intuitive |
 
 ##  Let's Connect
 
