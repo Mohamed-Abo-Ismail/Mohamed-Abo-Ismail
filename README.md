@@ -1,5 +1,5 @@
 
-**Junior Data Analyst | Computer Science Graduate @ Pharos University In Alexandria ( PUA )**
+**Junior Data Analyst | Computer Science Graduate From Pharos University In Alexandria ( PUA )**
 
 I turn raw data into clear insights that support better business decisions. 
 I focus on data cleaning, analysis, visualization, and dashboard development 
