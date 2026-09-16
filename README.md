@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-### Junior Data Analyst | Excel • SQL • Power BI • Python
+### Junior Data Analyst | Excel • SQL • Power BI • Python | CS Graduate
 
 I'm a **Computer Science graduate** and **Junior Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
 
