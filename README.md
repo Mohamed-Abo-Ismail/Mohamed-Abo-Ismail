@@ -34,13 +34,4 @@ I focus on **data cleaning, analysis, visualization, dashboard development, and 
 
 ---
 
-## 🎯 Currently Focused On
-
-* Building real-world **Data Analysis projects**
-* Improving my **SQL & Power BI** skills
-* Developing professional **data storytelling and visualization**
-* Building a strong portfolio for a **Junior Data Analyst** career
-
----
-
 ### 📌 Let's Turn Data Into Insights.
