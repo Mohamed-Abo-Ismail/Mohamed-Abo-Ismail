@@ -16,6 +16,5 @@ portfolio projects and learning paths to start their data careers.
 🛠 Skills: SQL | Excel | Power BI | DAX | Power Query | Python | Pandas | NumPy | Statistics | Figma
 
 💬 What I bring: clear communication, data storytelling, teamwork, presentation skills, and strong attention to detail.
----
 
 ### 📌 Let's Turn Data Into Insights.
